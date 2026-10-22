@@ -1,0 +1,5 @@
+{
+  "project": "RecipeApi.csproj",
+  "startupProject": "RecipeApi.csproj",
+  "context": "RecipeApi.Data.RecipeDbContext"
+}

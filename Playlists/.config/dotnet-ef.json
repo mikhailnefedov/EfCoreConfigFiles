@@ -1,0 +1,5 @@
+{
+  "project": "Playlist.DataAccess",
+  "startupProject": "PlaylistApi",
+  "context": "Playlist.DataAccess.Data.PlaylistDbContext"
+}

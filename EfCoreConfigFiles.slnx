@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Playlists/PlaylistApi/PlaylistApi.csproj" />
+  <Project Path="Playlists/Playlist.DataAccess/Playlist.DataAccess.csproj" />
+  <Project Path="RecipeApi/RecipeApi.csproj" />
+</Solution>
